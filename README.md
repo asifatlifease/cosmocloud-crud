@@ -2,6 +2,7 @@
 
 ## For This Project I have these thing
 
+- Typescript (Basic)
 - TailwindCss
 - Flowbite
 - React Router Dom
