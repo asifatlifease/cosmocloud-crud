@@ -21,3 +21,7 @@
 - Run this command to install the necessary packages
     - npm i
 - Run - npm start
+
+
+### Cosmocloud problem I faced during development:
+- I have encountered numerous issues with Cosmocloud while creating and using APIs. It always shows an internal server error, which is causing my update and delete API to not work.
