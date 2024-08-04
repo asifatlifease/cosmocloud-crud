@@ -5,12 +5,12 @@ import { addEmployee } from "../../services";
 import toast from "react-hot-toast";
 
 function Add() {
-  const navigate = useNavigate()
+  const navigate = useNavigate();
   async function handleFormSubmit(payload: any) {
     try {
       await addEmployee(payload);
       toast.success("New Employee Added.");
-      navigate('/')
+      navigate("/");
     } catch (error) {
       toast.error("Something went wrong!");
     }
