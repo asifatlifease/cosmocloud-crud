@@ -9,6 +9,7 @@
 - React Hot Toast
 - Cosmocloud Backend Service
 - Mongodb Cloud Atlas
+- Axios
 
 ## Project Setup
 
